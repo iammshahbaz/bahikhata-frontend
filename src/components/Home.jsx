@@ -61,7 +61,7 @@ const Home = () => {
                     // variant={"outline"}
                     _hover={{ bg: "#90ee90", color: "#091e17" }}
                   >
-                
+                    SingUp
                   </Button>
                 </Link>
               </>
